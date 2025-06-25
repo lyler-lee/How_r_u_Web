@@ -1,0 +1,18 @@
+nohup: ignoring input
+[2025-06-24 13:22:21 +0000] [71695] [INFO] Starting gunicorn 23.0.0
+[2025-06-24 13:22:21 +0000] [71695] [INFO] Listening at: http://0.0.0.0:5001 (71695)
+[2025-06-24 13:22:21 +0000] [71695] [INFO] Using worker: sync
+[2025-06-24 13:22:21 +0000] [71696] [INFO] Booting worker with pid: 71696
+[2025-06-24 13:22:21 +0000] [71697] [INFO] Booting worker with pid: 71697
+[2025-06-24 13:22:21 +0000] [71698] [INFO] Booting worker with pid: 71698
+[2025-06-24 13:22:21 +0000] [71700] [INFO] Booting worker with pid: 71700
+WARNING ⚠️ user config directory '/home/ubuntu/.config/Ultralytics' is not writeable, defaulting to '/tmp' or CWD.Alternatively you can define a YOLO_CONFIG_DIR environment variable for this path.
+WARNING ⚠️ user config directory '/home/ubuntu/.config/Ultralytics' is not writeable, defaulting to '/tmp' or CWD.Alternatively you can define a YOLO_CONFIG_DIR environment variable for this path.
+WARNING ⚠️ user config directory '/home/ubuntu/.config/Ultralytics' is not writeable, defaulting to '/tmp' or CWD.Alternatively you can define a YOLO_CONFIG_DIR environment variable for this path.
+WARNING ⚠️ user config directory '/home/ubuntu/.config/Ultralytics' is not writeable, defaulting to '/tmp' or CWD.Alternatively you can define a YOLO_CONFIG_DIR environment variable for this path.
+WARNING ⚠️ Error decoding JSON from /tmp/Ultralytics/persistent_cache.json. Starting with an empty dictionary.
+WARNING ⚠️ Error decoding JSON from /tmp/Ultralytics/persistent_cache.json. Starting with an empty dictionary.
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
