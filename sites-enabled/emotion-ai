@@ -1,0 +1,15 @@
+server {
+    listen 80;
+    server_name 43.201.182.116; # 유일한 서버 이름
+
+    location / {
+        root /var/www/html;
+        index index.html;
+    }
+
+    location /api/ {
+        proxy_pass http://127.0.0.1:5001/;
+        proxy_set_header Host $host;
+    }
+}
+
